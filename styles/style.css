@@ -82,7 +82,8 @@ footer {
 
 .about,
 .shedule,
-.author {
+.author,
+.buy {
     background-color: #eeeeee;
 }
 
@@ -140,6 +141,11 @@ footer {
 .rounded {
     border-radius: 50% !important;
     border: 3px solid var(--color1);
+}
+
+iframe {
+    width: 100%;
+    height: 224px;
 }
 
 .color1 {
