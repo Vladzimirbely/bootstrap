@@ -82,7 +82,7 @@ footer {
 
 .about,
 .shedule,
-.learning {
+.author {
     background-color: #eeeeee;
 }
 
@@ -126,6 +126,19 @@ footer {
 
 .learning h5 {
     padding: 25px;
+    border: 3px solid var(--color1);
+}
+
+.author {
+    padding-bottom: 0;
+}
+
+.itd_img {
+    max-width: 260px;
+}
+
+.rounded {
+    border-radius: 50% !important;
     border: 3px solid var(--color1);
 }
 
